@@ -1,5 +1,5 @@
 
-# ScrollSepolia
+# Scroll Sepolia
 
 **Auto Faucet Request for Scroll Sepolia**
 
